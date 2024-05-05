@@ -1,4 +1,4 @@
-```markdown
+
 # Lucy: Kişisel Asistanınız
 
 Lucy, günlük görevlerinizi kolaylaştırmak için tasarlanmış bir kişisel asistan uygulamasıdır. Ses tanıma ve konuşma sentezi teknolojilerini kullanarak, kullanıcıların sesli komutlarla çeşitli işlemleri gerçekleştirmelerine olanak tanır.
@@ -22,19 +22,4 @@ Bu uygulamayı kullanmak için gerekli kütüphaneleri yükleyin:
 
 ```bash
 pip install pyttsx3 speech_recognition opencv-python requests wikipedia webbrowser gtts playsound
-```
 
-## Kullanım
-
-Uygulamayı çalıştırmak için:
-
-```bash
-python lucy.py
-```
-
-## Lisans
-
-Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
-```
-
-Bu README dosyası, Lucy kişisel asistan uygulamasının temel özelliklerini, nasıl çalıştığını, kurulum ve kullanım talimatlarını içermektedir. Ayrıca, projenin MIT Lisansı altında lisanslandığını belirtir. Kullanıcılar bu bilgileri GitHub'da projenin ana sayfasında bulabilirler.
